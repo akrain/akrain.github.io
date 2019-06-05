@@ -37,7 +37,7 @@ The temple of sage Prashar adjoining the lake is believed to be from the 13th ce
 ## Getting back (or, my misadventures)
 By evening, a group of five youngsters arrived at the rest house and I came to know that the trail from Baagi was in good condition. I decided to take the trail on the way back and started off at about 9:30 in the morning. The trail can be divided into two parts —the upper half that goes through a grassland and  the lower half through a thick pine forest. The upper part was covered almost entirely under a few inches of snow and going down was great fun as the snow provided for good cushioning. The caretaker just need to follow the electricity lines till the start of the forested part. At that where the lines run into the forest, follow the path that starts a few meters towards their right.
 
-![](/images/20151219/gujja-hut.jpg)
+![](/images/20151219/gujjar-hut.jpg)
 <p class="image-title">A Gujjar hut on the snow covered trail</p>
 
 Just before the start of the forested part, a beautiful pool of water came into the view just off the trail. The water in the pool had frozen into a thick sheet of ice and seemed to be a good place to try my ice skating skills (which really amounted to zero). After making sure that the ice was solid and a few tries of slow skating, I ran onto the ice sheet in an attempt to skate over it. But alas!! The next moment only made me remember what I had learnt in high school physics —that the coefficient of friction between rubber and ice is very low. The result was an embarrassing crash into the ice sheet that literally broke the glass. That I survived the crash without any broken bones was the only comforting factor.
