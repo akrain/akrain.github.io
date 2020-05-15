@@ -47,5 +47,8 @@ Overall, the trip was quite rewarding and besides the crash on the ice everythin
 
 ![Pir Panjal](https://res.cloudinary.com/overthehills/image/upload/v1587230983/prashar/pir-panjal-panaroma.jpg)
 *Pir Panjal*
+
+
 ![Dhauladhar](https://res.cloudinary.com/overthehills/image/upload/v1587231305/prashar/dhauladhar.jpg)
 *Dhauladhar*
+
