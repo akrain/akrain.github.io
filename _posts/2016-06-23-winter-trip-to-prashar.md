@@ -6,19 +6,19 @@ title: Winter trip to Prashar
 Prashar is a small lake situated in the Himalayan foothills, about 49 km north of Mandi town in Himachal Pradesh. The lake lies in between the Dhauladhar and the Pir Panjal ranges and offers breathtaking views of both. Prashar is accessible by road most of the year except in the winter from late December to February. There is also a 7 km trail that starts from a village named Baagi that is accessible almost throughout the year.
 
 #### Reaching there
-My idea was to hitchhike up the road from Baagi as there was little news about the trail conditions. Reaching Baagi proved to be much easier than expected. I took a bus from Delhi on Friday night and reached Mandi at 5:30 am next morning only to be jolted by the chilly morning air. I quickly added layers of warm clothing and asked about the buses to Baagi and Prashar. The only bus to Prashar leaves Mandi at 7:45 am but there was an earlier bus that could drop me about 4 kms from Baagi. I took this bus and got off at a fork in the road somewhere between the villages Kataula and Baagi
+My idea was to hitchhike up the road from Baagi as there was little news about the trail conditions. Reaching Baagi proved to be much easier than expected. I took a bus from Delhi on Friday night and reached Mandi at 5:30 am next morning only to be jolted by the chilly morning air. After quickly adding layers of warm clothing, I asked about the buses to Baagi and Prashar. The only bus to Prashar leaves Mandi at 7:45 am but there was an earlier bus that could drop me about 4 kms from Baagi. I took this bus and got off at a fork in the road somewhere between the villages of Kataula and Baagi
 
 ![Kataula](https://res.cloudinary.com/overthehills/image/upload/v1587206841/prashar/fork.jpg)
 
-It was about 23 km to Prashar and I started walking along the road. On the way, I hitched a ride with a confidant, young man on a scooter. He had quit a well paying job in a city because he wanted to serve his state and its people. To my surprise, he was following the road just to enjoy the ride and to watch the sunrise from a nice vantage point. We said our goodbyes after chatting for some time and I continued alone up the road.
+It was about 23 km to Prashar and I started walking along the road. On the way, I hitched a ride with a confident, young man on a scooter. He had quit a well paying job in a city because he wanted to serve his state and its people. To my surprise, he was following the road just to enjoy the ride and to watch the sunrise from a nice vantage point. We said our goodbyes after chatting for some time and I continued alone up the road.
 
 ![First view of the Pir Panjal with Deo Tibba in the center](https://res.cloudinary.com/overthehills/image/upload/v1587206840/prashar/deo-tibba.jpg)
 *First view of the Pir Panjal with Deo Tibba in the center*
 
-After about an hour’s walk, I was surprised to see a bus come up behind me. Glad to have some company, I got into the bus and was happy to be dropped at a point which was  about 7 kms from the lake. From that point, I had the caretaker of the Forest Rest House for company and we took a shortcut through the woods to reach the top of a small hill. The road was pretty much straight along the ridge with fabulous views of the Dhauladhar and Pir Panjal ranges.
+After about an hour’s walk, I was surprised to see a bus come up behind me. Glad to have some company, I got into it and was happy to be dropped at a point which was  about 7 kms from the lake. From that point, I had the caretaker of the Forest Rest House for company and we took a shortcut through the woods to reach the top of a small hill. The road was pretty much straight after that and went along a ridge with fabulous views of the Dhauladhar and Pir Panjal ranges.
 
 # The environs
-Having used all possible modes of transportation, I was surprised to find myself at the Forest Rest House by noon. The lake is about half a kilometer from the rest house. I dropped my stuff and had some hot tea before making a move towards the lake.
+Having used all possible modes of transportation, I was surprised to find myself at the Forest Rest House by noon. The lake is about half a kilometer from the rest house. I dropped my stuff and had some hot tea before making a move towards it.
 
 ![The lake and the temple complex](https://res.cloudinary.com/overthehills/image/upload/v1587206863/prashar/lake.jpg)
 *The lake and the temple complex*
@@ -28,7 +28,7 @@ The lake itself is situated in a bowl shaped depression which results in it gett
 ![The three tier temple dedicated to Sage Prashar](https://res.cloudinary.com/overthehills/image/upload/v1587206867/prashar/temple.jpg)
 *The three tier temple dedicated to Sage Prashar*
 
-The temple of sage Prashar adjoining the lake is believed to be from the 13th century and is made up mostly of wood and stone. It is an interesting three tier pagoda like structure having a conical top tier mounted on two pyramidal ones. On the inside, the woodwork is carved in medieval Indian tradition with figures of numerous deities as well as intricate geometric patterns. The doorway to the temple is framed in distinct patterns, of which the one depicting a couple of knotted snakes is almost lifelike. Inside the temple is a statue of Sage Prashar.
+The temple of sage Prashar adjoining the lake is believed to be from the 13th century and is made up mostly of wood and stone. It is an interesting three tier pagoda like structure having a conical top tier mounted on two pyramidal ones. On the inside, the woodwork is carved in medieval Indian tradition with figures of numerous deities as well as intricate geometric patterns. The doorway to the temple is framed in distinct patterns, of which the one depicting a couple of knotted snakes is almost lifelike. Inside the temple stands a statue of Sage Prashar.
 
 ![Carvings on the temple facade](https://res.cloudinary.com/overthehills/image/upload/v1587206848/prashar/temple-collage.jpg)
 *Carvings on the temple facade*
