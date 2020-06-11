@@ -3,14 +3,14 @@ layout: post
 title: Sainj to Tirthan Trek
 ---
 
-Background
+# Background
 
 This is a trek report of a not so frequented trek that I did with a couple of my friends in the Great Himalayan National Park (GHNP). Our original plan was to go to Tirath, the source of Tirthan river, but that route was closed due to incessant rains in the days preceding our visit. We asked our guide for some other routes within the park and took up the most interesting option that he could offer. This turned out to be a trek from the lesser known Sainj valley to the more famous Tirthan valley across the 4000m high Dhel Pass.
 
 ![A bridge over the Sainj river](https://res.cloudinary.com/overthehills/image/upload/v1590843618/sainj-tirthan/bridge-on-sainj.jpg)
-*A bridge over the Sainj river*
+<p align="center"><em>A bridge over the Sainj river<em></p>
 
-On the first day, we started for Sainj in a cab and spent most of the morning arranging entry passes at the GHNP office in Ropa. The trek started near a small village Niharini which is at the end of the road in the Sainj valley. Our first camp was supposed to be at Shakti but since we had started late and were further delayed by the rain, we decided to camp near a small stream just before sunset. We continued upstream along the river towards the village of Shakti next morning. Except for a few glorious waterfalls, the day was largely uneventful as we walked through lush forests that kept getting thicker. 
+> On the first day, we started for Sainj in a cab and spent most of the morning arranging entry passes at the GHNP office in Ropa. The trek started near a small village Niharini which is at the end of the road in the Sainj valley. Our first camp was supposed to be at Shakti but since we had started late and were further delayed by the rain, we decided to camp near a small stream just before sunset. We continued upstream along the river towards the village of Shakti next morning. Except for a few glorious waterfalls, the day was largely uneventful as we walked through lush forests that kept getting thicker. 
 
 ![A waterfall on the way](https://res.cloudinary.com/overthehills/image/upload/v1590843620/sainj-tirthan/waterfall.jpg)
 *A waterfall on the way*
