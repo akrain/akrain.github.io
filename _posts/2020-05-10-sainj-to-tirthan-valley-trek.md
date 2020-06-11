@@ -10,7 +10,7 @@ This is a trek report of a not so frequented trek that I did with a couple of my
 ![A bridge over the Sainj river](https://res.cloudinary.com/overthehills/image/upload/v1590843618/sainj-tirthan/bridge-on-sainj.jpg)
 <p align="center"><em>A bridge over the Sainj river<em></p>
 
-> On the first day, we started for Sainj in a cab and spent most of the morning arranging entry passes at the GHNP office in Ropa. The trek started near a small village Niharini which is at the end of the road in the Sainj valley. Our first camp was supposed to be at Shakti but since we had started late and were further delayed by the rain, we decided to camp near a small stream just before sunset. We continued upstream along the river towards the village of Shakti next morning. Except for a few glorious waterfalls, the day was largely uneventful as we walked through lush forests that kept getting thicker. 
+On the first day, we started for Sainj in a cab and spent most of the morning arranging entry passes at the GHNP office in Ropa. The trek started near a small village Niharini which is at the end of the road in the Sainj valley. Our first camp was supposed to be at Shakti but since we had started late and were further delayed by the rain, we decided to camp near a small stream just before sunset. We continued upstream along the river towards the village of Shakti next morning. Except for a few glorious waterfalls, the day was largely uneventful as we walked through lush forests that kept getting thicker. 
 
 ![A waterfall on the way](https://res.cloudinary.com/overthehills/image/upload/v1590843620/sainj-tirthan/waterfall.jpg)
 *A waterfall on the way*
