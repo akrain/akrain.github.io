@@ -15,9 +15,10 @@ An intense craving for authentic thukpa had gotten hold of me and drove me to lo
 ![Photos from the market](https://res.cloudinary.com/overthehills/image/upload/v1587206934/leh/dry-fruits.jpg)
 
 *Photos from the market*
-<Dry fruits>
+
+<!--Dry fruits>
 <Alibaba>
-<Wares on the street>
+<Wares on the street-->
 
 
 As I went through the main market, I saw that it had changed quite a lot. The old shops had given way to new multi-cuisine and Kashmiri restaurants, fancy coffee shops and delhi style momo stalls. In this modern market aimed at tourists, there wasn’t a local eatery to be found. I kept walking downhill and went into Moti Market looking for some other stuff. As I was approaching the last few shops, I saw a board with pictures of momos and thukpa on the first floor of a building. It was a small eatery named Ldumra and as I went up the stairs, I saw a door that said “Master-chef” and I knew that I would like to have food here.
@@ -31,8 +32,6 @@ I ordered mutton thukpa with mutton momos (or mok-mok as they are locally called
 *The sight that swept away all my anxiety*
 
 The next morning, I decided to walk up to Shanti Stupa which provides a panoramic view of Leh and the nearby villages. As the morning progressed, the first rays of the sun hit the Stok range and then the sunlight gradually inched its way towards the town of Leh. 
-
-<Shanti stupa photos>
 
 ![Sunrise over Leh](https://res.cloudinary.com/overthehills/image/upload/v1587206925/leh/leh-morning.jpg)
 *Sunrise over Leh with the cloud covered Stok Range in the background*
