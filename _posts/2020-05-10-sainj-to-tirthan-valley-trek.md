@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sainj to Tirthan Trek
+title: Sainj to Tirthan trek
 ---
 
 # Background
