@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Quest for the Authentic Thukpa
+Title: Quest for the authentic thukpa
 ---
 
 It was a fine sunny September morning as I reached Leh, more than 9 years after my last visit. As most of the establishments in Leh had closed before the onset of winter, I decided to look for accomodation close to the main market. After about an hour of walking around, I found a decent budget hotel (Mehak) to stay at the start of Changspa Road. By the time I checked in, I was feeling hungry and really wanted to have some local food for lunch. 
