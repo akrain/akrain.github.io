@@ -11,12 +11,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Over the Hills
+author: Akhil Raina
+email: akrain@overthehills.in
 description: >- # this means to ignore newlines until "baseurl:"
-  A personal travel blog mostly about Himalayan treks.
+  Travel and trekking in the Himalayas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
+show_excerpts: false
 
 # Build settings
 markdown: kramdown

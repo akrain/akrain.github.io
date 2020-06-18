@@ -1,0 +1,19 @@
+---
+---
+
+$content-width:    850px !default;
+$on-palm:          600px !default;
+$on-laptop:        850px !default;
+@import "minima";
+
+.caption {
+	font-size: $base-font-size;
+	font-style: italic;
+	text-align: center;
+	display: block;
+	padding-top: $spacing-unit/6;
+}
+
+.post-content {
+  font-size: $base-font-size + 2;
+}
