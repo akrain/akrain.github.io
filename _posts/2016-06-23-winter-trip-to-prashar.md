@@ -2,6 +2,7 @@
 layout: post
 title: Winter trip to Prashar
 tags: Prashar, Himachal
+cover_image: https://res.cloudinary.com/overthehills/image/upload/v1587206840/prashar/lake-closeup.jpg
 ---
 
 Prashar is a small lake situated in the Himalayan foothills, about 49 km north of Mandi town in Himachal Pradesh. The lake lies in between the Dhauladhar and the Pir Panjal ranges and offers breathtaking views of both. Prashar is accessible by road most of the year except in the winter from late December to February. There is also a 7 km trail that starts from a village named Baagi that is accessible almost throughout the year.

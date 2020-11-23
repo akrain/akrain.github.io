@@ -19,6 +19,7 @@ layout: default
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
+            <div style="padding-top: 10px;"><img src="{{post.cover_image}}"/></div>
           </a>
         </h3>
         {%- if site.show_excerpts -%}

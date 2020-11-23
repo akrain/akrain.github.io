@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sainj to Tirthan trek
+cover_image: https://res.cloudinary.com/overthehills/image/upload/v1590843620/sainj-tirthan/sunset-at-dhel.jpg
 ---
 
 This is a trek report of a not so frequented trek that I did with a couple of my friends in the Great Himalayan National Park (GHNP). Our original plan was to go to Tirath, the source of Tirthan river, but that route was closed due to incessant rains in the days preceding our visit. We asked our guide for some other routes within the park and took up the most interesting option that he could offer. This turned out to be a trek from the lesser known Sainj valley to the more famous Tirthan valley across the 4000 metres high Dhel Pass.
