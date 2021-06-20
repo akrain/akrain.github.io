@@ -16,4 +16,8 @@ $on-laptop:        850px !default;
 
 .post-content {
   font-size: $base-font-size + 2;
+
+  h2 {
+    @include relative-font-size(1.6);
+  }
 }
