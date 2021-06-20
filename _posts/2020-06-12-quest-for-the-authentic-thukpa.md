@@ -2,7 +2,7 @@
 layout: post
 title: Quest for the authentic thukpa
 tags: Leh, food, thukpa
-cover_image: https://res.cloudinary.com/overthehills/image/upload/v1587206912/leh/awesome-thukpa.jpg
+cover_image: https://res.cloudinary.com/overthehills/image/upload/v1624183069/leh/awesome-thukpa.jpg
 ---
 
 It was a fine September morning as I reached Leh, more than 9 years after my last visit. As most of the establishments in Leh had closed before the onset of winter, I decided to look for accommodation close to the main market. After about an hour of walking around, I found a decent budget hotel (Mehak) to stay at the start of Changspa Road. By the time I checked in, I was feeling hungry and really wanted to have some local food for lunch. 
@@ -24,7 +24,7 @@ I ordered mutton *thukpa* with momos (called *mok-mok* locally) and eagerly wait
 ![Ldumra restaurant](https://res.cloudinary.com/overthehills/image/upload/v1587206898/leh/ldumra.jpg)
 <span class="caption">Ldumra restaurant - Best thukpa in town</span>
 
-![The sight that swept away all my anxiety](https://res.cloudinary.com/overthehills/image/upload/v1587206912/leh/awesome-thukpa.jpg)
+![The sight that swept away all my anxiety](https://res.cloudinary.com/overthehills/image/upload/v1624183069/leh/awesome-thukpa.jpg)
 <span class="caption">The sight that swept away all my anxiety</span>
 
 With my *thukpa* craving satisfied, I turned my attention to the other culinary delights in Leh. While searching for my hotel, I had noticed a nice, stylish restaurant with an interesting name - Namza. It has an eclectic menu that not only features Ladakhi cuisine but also Balti and central Asian dishes. To go with the awesome food, the place has great hospitality and I ended up having a few of my meals there. The Yarkhandi pulao, a dish that travelled to Leh over the ancient Silk route, and the buckwheat pancakes with apricot sauce are especially recommended. 
