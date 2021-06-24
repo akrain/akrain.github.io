@@ -148,9 +148,9 @@ The descent from the pass is steep with mountains of different colours and textu
 ![Hemis](https://res.cloudinary.com/overthehills/image/upload/v1616052452/markha/hemis.jpg)
 <span class="caption">Hemis monastery</span>
 
-The valley starts widening as one reaches the village of Chogdo. The village is now connected by a proper road and you can easily get a taxi to Leh from there. As there was still some time left in the day, I decided to visit to the Hemis monastery which lies half an hour off the route. The monastery is one of the most important in the region and has grand temples dedicated to the Buddha and Padmasambhava. It is home to some jaw dropping murals and also houses one of the best museums of medieval Buddhist artefacts from the Himalayan region.
+The valley starts widening as one reaches the village of Chogdo. The village is now connected by a proper road and you can easily get a taxi to Leh from there. There was still some time left in the day, so I decided to visit to the Hemis monastery which lies half an hour off the route. The monastery is one of the most important in the region and has grand temples dedicated to the Buddha and Padmasambhava. It is home to some jaw dropping murals and also houses one of the best museums of medieval Buddhist artefacts from the Himalayan region.
 
-A thunderstorm was approaching and I quickly made my way back to the car. With that my week long journey into the mountains came to an end. I had come prepared to be impressed by the sights of nature but it was the forgotten ruins that really left me speechless.
+A thunderstorm was approaching and I quickly made my way back to the car. With that my week long journey into the mountains came to an end. I had come to be impressed by the sights of nature but it was the forgotten ruins of the Markha valley that really left me speechless.
 
 
 ## Info
