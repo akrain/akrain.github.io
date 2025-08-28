@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Markha Valley - The Classic Route
+tags: Markha, Ladhakh, solo
 cover_image: https://res.cloudinary.com/overthehills/image/upload/v1620584331/markha/markha-valley.jpg
 ---
 
@@ -12,7 +13,7 @@ Before starting, I spent a couple of days walking around Leh town for acclimatiz
 <span class="caption">Homestay in Stok</span>
 
 ## Stok to Yurutse
-After saying goodbye to my hosts in Stok, I hoisted my backpack and started off straight into the Stok gorge on a bright sunny morning. The trail from Stok is well marked and lavender and wild roses adorn its surroundings. It continued uneventfully along the Stok stream to reach the campsite of Chang Ma (4100m) where the it divides into two. The wider trail crosses immediately across a small stream and climbs steeply towards the Stok Kangri base camp. However, the trail to Stok La goes further along the smaller stream and crosses it about a 100 metres upstream. I confirmed the route with some porters and made my way along a dry stream that leads to the base of the pass.
+After saying goodbye to my hosts in Stok, I hoisted my backpack and started off straight into the Stok gorge on a bright sunny morning. The trail from Stok is well marked and lavender and wild roses adorn its surroundings. I continued along the Stok stream to reach the campsite of Chang Ma (4100m) where the the trail divides into two. The wider trail crosses immediately across a small stream and climbs steeply towards the Stok Kangri base camp. However, the trail to Stok La goes further along the smaller stream and crosses it about a 100 metres upstream. I confirmed the route with some porters and made my way along a dry stream that leads to the base of the pass.
 
 After 2 hours of steady uphill, I reached the campsite of Doksar (4450m), a high altitude grazing area used by locals to tend to their herds. The campsite was desolate with grass and small shrubs being the only sign of life around. A few stone shelters built by shepherds were empty as well and there was a flat stretch just above them to pitch my tent. The air was really thin at this altitude and mundane tasks like getting things in and out of the tent got my heart rate high. What made matters worse was the fact that the water source was about a 100 metres downhill from the campsite. It started getting cold by afternoon and after having an early dinner of instant noodles, I got into my sleeping bag by 6:00 PM. The high altitude made the whole night a struggle for sleep. I couldn't get good sleep that night but was otherwise comfortable in my tent. 
 
@@ -116,7 +117,6 @@ From Hangkar, it is an easy walk along the river till you reach the bridge where
 <span class="caption">Kang Yatse and Dzo Jongo overlook the fields of Hangkar</span>
 
 ## Nimaling and Kongmaru La
-
 The walk along the Nimaling Chu stayed easy and I reached the grazing grounds of Tachungste within an hour. The ascent gets steep from there till you reach a high point where a couple of small, serene lakes can be seen with the western face of Kang Yatse in the background. The lakes are probably holy as one of them has a statue of Padmasambhava in the middle with prayer flags along the periphery. A little further up from the lakes, the path descends into the vast meadow of the Nimaling valley which extends for several kilometers along the stream. There are tents available for rent but the nights can get extremely cold here. It was good to have some company as two more groups had reached Nimaling the same evening - two Polish men and two Korean women who were with a local guide. Interestingly, I had met the two Polish guys before at a lesser known beach in Goa. So much for six degrees of separation!!
 
 ![Lake](https://res.cloudinary.com/overthehills/image/upload/v1616052452/markha/kang-yatse-over-lake.jpg)
@@ -154,7 +154,6 @@ A thunderstorm was approaching and I quickly made my way back to the car. With t
 
 
 ## Info
-
 1. For more information on the route, check out Depi Chaudhry's [Trekking Guide to the Western Himalayas](https://harpercollins.co.in/product/guide-to-trekking-in-the-western-himalayas)
 
 2. [AllTrails GPS log](https://www.alltrails.com/explore/map/ladakh-markha-valley?referrer=gpsies), Covers Spituk to Hemis (Shang).

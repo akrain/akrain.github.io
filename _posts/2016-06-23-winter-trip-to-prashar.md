@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winter trip to Prashar
-tags: Prashar, Himachal
+tags: Prashar, Himachal, Mandi, solo
 cover_image: https://res.cloudinary.com/overthehills/image/upload/v1587206840/prashar/lake-closeup.jpg
 ---
 
@@ -49,7 +49,6 @@ Overall, the trip was quite rewarding and besides the crash on the ice everythin
 
 ![Pir Panjal](https://res.cloudinary.com/overthehills/image/upload/v1587230983/prashar/pir-panjal-panaroma.jpg)
 <span class="caption">The Pir Panjal</span>
-
 
 ![Dhauladhar](https://res.cloudinary.com/overthehills/image/upload/v1587231305/prashar/dhauladhar.jpg)
 <span class="caption">Morning sun on the Dhauladhar</span>

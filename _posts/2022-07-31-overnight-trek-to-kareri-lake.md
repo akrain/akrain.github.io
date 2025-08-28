@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Kareri Lake
-tags: Kereri, Himachal
+title: Overnight trek to Kareri Lake
+tags: Kareri, Himachal, Dhauladhar, solo
 cover_image: https://res.cloudinary.com/overthehills/image/upload/v1647685532/kareri/kareri-lake.jpg
 ---
 
