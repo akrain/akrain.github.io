@@ -17,7 +17,7 @@ Walking through Leh's main bazaar, I noticed that it had changed quite a lot sin
 ![Photos from the market](https://res.cloudinary.com/overthehills/image/upload/v1587206934/leh/dry-fruits.jpg)
 <span class="caption">Dry fruit seller in Leh market</span>
 
-I kept walking downhill and reached Moti Market, an old market where the locals shop. The narrow lanes of Moti Market are lined with small shops most of which are run by warm, friendly women. They sell a variety of things from footwear to knockoff North Face apparel, cosmetics to utensils and what not. Looking for a place to eat, I was approaching the last few shops of this market when pictures of momos and *thukpa* came into sight. It was a small eatery named *Ldumra*. Later, I came to know Ldumra is the Tibetian name for the beautiful Nubra valley and means “valley of flowers”. As I went up the stairs, I saw the words “Master chef” painted on the door. Inside a few locals were enjoying their afternoon meals and it seemed that the master chef could be trusted. 
+I kept walking downhill and reached Moti Market, an old market where the locals shop. The narrow lanes of Moti Market are lined with small shops most of which are run by warm, friendly women. They sell a variety of things from footwear to knockoff North Face apparel, cosmetics to utensils and what not. Looking for a place to eat, I was approaching the last few shops of this market when pictures of momos and *thukpa* came into sight. It was a small eatery named *Ldumra*. Later, I came to know that Ldumra is the Tibetian name for the beautiful Nubra valley and means “valley of flowers”. As I went up the stairs, I saw the words “Master chef” painted on the door. Inside a few locals were enjoying their afternoon meals and it seemed that the master chef could be trusted. 
 
 I ordered mutton *thukpa* with momos (called *mok-mok* locally) and eagerly waited for the food to come. When it finally arrived, the sight of it in the bowl was enough to get rid of my blues. I gorged on the momos and then went on to finish the spicy noodle soup. It was the best *thukpa* I had ever tasted and it erased the memory of all the bad ones from the previous years. I thanked the chef for the great food and promised to return for more.
 
@@ -59,7 +59,7 @@ All in all, my short stay in Leh was mostly spent roaming around and trying the 
 
 2. [De Khambir](https://www.facebook.com/dekhambir/), Zangsti Road - Awesome traditional breakfast place.
 
-3. [Namza](https://namza-cafe-designer-store.business.site/), Zangsti Road, near Marathon Office - Posh restaurant with an eclectic menu
+3. [Namza](https://namzadining.com/about-namza-dining-cafe-in-leh-ladakh/), Zangsti Road, near Marathon Office - Upmarket restaurant with an eclectic menu
 
 *Trip dates: Sep/Oct 2019*
 
