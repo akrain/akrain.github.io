@@ -2,14 +2,14 @@
 layout: post
 title: Tirath - The Pilgrims' Trail
 tags: Tirthan, Sainj, GHNP, Himachal
-cover_image: https://res.cloudinary.com/overthehills/image/upload/v1590843620/sainj-tirthan/sunset-at-dhel.jpg
+cover_image: https://res.cloudinary.com/overthehills/image/upload/v1756397727/tirath/tirath-cover.jpg
 ---
 
 The Great Himalayan National Park (GHNP) in Kullu is one of the best-preserved wilderness areas in India. One of its most remarkable treks leads to the Hans Kund spring, regarded by the locals as the source of the Tirthan river. The area surrounding the spring -- Tirth, is a significant pilgrimage site for the people of the Seraj region. 
 
 The trek begins near the village of Gushaini and follows a narrow valley carved by the river to reach the sprawling Tirath meadow. From there, trekkers can either retrace their steps or cross the range to the South of the river to descend into the Falachan valley. Since many trails inside the park remain undefined, hiring a guide is essential. On this journey, I was joined by a local guide and two porters and together we set out to complete the Tirthan-Falachan circuit over six days.
 
-![Hippo Falls](https://res.cloudinary.com/overthehills/image/upload/v1756113484/tirth/tirth01.jpg)
+![Hippo Falls](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath01.jpg)
 <span class="caption">Hippo Falls near the entrance of the National Park</span>
 
 ## Gushaini to Chalocha
@@ -19,7 +19,7 @@ From Rolla, the trail narrowed and hugged the riverbank that was overgrown with 
 
 Distance covered: ~11 km, easy
 
-![Pristine valley near Chalocha](https://res.cloudinary.com/overthehills/image/upload/v1756113485/tirth/tirth02.jpg)
+![Pristine valley near Chalocha](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath02.jpg)
 <span class="caption">Pristine valley near Chalocha</span>
 
 ## Chalocha to Nada Thatch
@@ -27,13 +27,13 @@ The trail from Chalocha began with a steep ascent immediately after the campsite
 
 Distance covered: ~2.5 km, steep climb
 
-![Resting point near the end of the climb](https://res.cloudinary.com/overthehills/image/upload/v1756113486/tirth/tirth03.jpg)
+![Resting point near the end of the climb](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath03.jpg)
 <span class="caption">Resting point near the end of the climb</span>
 
-![View from the forest hut at Nada Thatch](https://res.cloudinary.com/overthehills/image/upload/v1756113487/tirth/tirth04.jpg)
+![View from the forest hut at Nada Thatch](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath04.jpg)
 <span class="caption">View from the forest hut at Nada Thatch</span>
 
-![Golden sunset after a thunderstorm](https://res.cloudinary.com/overthehills/image/upload/v1756113485/tirth/tirth05.jpg)
+![Golden sunset after a thunderstorm](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath05.jpg)
 <span class="caption">Golden sunset after a thunderstorm</span>
 
 ## Nada Thatch to Tirath
@@ -44,23 +44,23 @@ We reached the Majhoni campsite but decided to push on to Tirath as there was st
 
 Distance covered: ~16 km, hard downhill followed by moderate uphill
 
-![Leaving Nada Thatch](https://res.cloudinary.com/overthehills/image/upload/v1756113485/tirth/tirth06.jpg)
+![Leaving Nada Thatch](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath06.jpg)
 <span class="caption">Leaving Nada Thatch</span>
 
-![Looking back towards the Tirthan valley](https://res.cloudinary.com/overthehills/image/upload/v1756113485/tirth/tirth07.jpg)
+![Looking back towards the Tirthan valley](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath07.jpg)
 <span class="caption">Looking back towards the Tirthan valley</span>
 
 ## Tirath
 It was only when the sun came out in the morning that could I truly appreciate the beauty and vastness of valley. The sprawling Tirath meadow is flanked by high mountains on all sides, with a dramatic opening to the west, through which the Tirthan flows downstream. The valley floor is covered with flowers, herbs, and a wild grass which resembles wheat. To the east, the meadow splits into two V-shaped gorges from where the river's two main streams emerge. In spite of that, the locals consider a small, clear water pond towards the eastern side of the meadow to be the true source of the river. As is the local custom, we took a bath in the icy waters of the river before offering our prayers to the local diety. This was followed by a hearty breakfast of *chana* and *halwa* before we moved on.
 
 
-![The Tirath meadow](https://res.cloudinary.com/overthehills/image/upload/v1756113485/tirth/tirth08.jpg)
+![The Tirath meadow](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath08.jpg)
 <span class="caption">The Tirath meadow</span>
 
-![Praying to the local deity](https://res.cloudinary.com/overthehills/image/upload/v1756113485/tirth/tirth09.jpg)
+![Praying to the local deity](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath09.jpg)
 <span class="caption">Praying to the local deity</span>
 
-![Rattle lousewort flowers in the meadow](https://res.cloudinary.com/overthehills/image/upload/v1756113494/tirth/tirth10.jpg)
+![Rattle lousewort flowers in the meadow](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath10.jpg)
 <span class="caption">Rattle lousewort flowers in the meadow</span>
 
 ## Tirath to Jatholi
@@ -68,13 +68,13 @@ We crossed the streams that form the Tirthan River to reach the true left of the
 
 Distance covered: 10-12 km, hard with 10-12 stream crossings
 
-![The trail after crossing the Tirthan river](https://res.cloudinary.com/overthehills/image/upload/v1756113494/tirth/tirth11.jpg)
+![The trail after crossing the Tirthan river](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath11.jpg)
 <span class="caption">The trail after crossing the Tirthan river</span>
 
-![Spot with a view](https://res.cloudinary.com/overthehills/image/upload/v1756113494/tirth/tirth12.jpg)
+![Spot with a view](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath12.jpg)
 <span class="caption">Spot with a view</span>
 
-![Meadows of the GHNP](https://res.cloudinary.com/overthehills/image/upload/v1756113494/tirth/tirth14.jpg)
+![Meadows of the GHNP](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath13.jpg)
 <span class="caption">The meadow in the centre across the valley is Nada Thatch</span>
 
 
@@ -84,16 +84,16 @@ The meadow of Asurbag was visible in the distance, and at first glance, it seeme
 
 Distance covered: 4-5 km, moderate to hard
 
-![A huge snow bridge](https://res.cloudinary.com/overthehills/image/upload/v1756113494/tirth/tirth15.jpg)
+![A huge snow bridge](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath14.jpg)
 <span class="caption">Step cutting on the big snow bridge</span>
 
-![Hut in the meadow](https://res.cloudinary.com/overthehills/image/upload/v1756113494/tirth/tirth16.jpg)
+![Hut in the meadow](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath15.jpg)
 <span class="caption">Reaching Asurbag meadow.</span>
 
-![Tents in the meadow](https://res.cloudinary.com/overthehills/image/upload/v1756113494/tirth/tirth17.jpg)
+![Tents in the meadow](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath16.jpg)
 <span class="caption">Tents in the meadow</span>
 
-![Flowers everywhere](https://res.cloudinary.com/overthehills/image/upload/v1756113494/tirth/tirth19.jpg)
+![Flowers everywhere](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath17.jpg)
 <span class="caption">Flowers everywhere</span>
 
 
@@ -104,16 +104,16 @@ We crossed another, easier pass, after which the descent became steep and treach
 
 Distance covered: 10-12 km, hard, mostly downhill, a bit exposed at some points
 
-![The Asurbag pass](https://res.cloudinary.com/overthehills/image/upload/v1756113494/tirth/tirth20.jpg)
+![The Asurbag pass](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath18.jpg)
 <span class="caption">The Asurbag pass</span>
 
-![Lady with the load coming up from the other side](https://res.cloudinary.com/overthehills/image/upload/v1756113494/tirth/tirth21.jpg)
+![Lady with the load coming up from the other side](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath19.jpg)
 <span class="caption">Lady with the load coming up from the other side</span>
 
-![Trail on the other side](https://res.cloudinary.com/overthehills/image/upload/v1756113494/tirth/tirth22.jpg)
+![Trail on the other side](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath20.jpg)
 <span class="caption">Trail on the other side</span>
 
-![Final pic before the descent](https://res.cloudinary.com/overthehills/image/upload/v1756113494/tirth/tirth23.jpg)
+![Final pic before the descent](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath21.jpg)
 <span class="caption">Final pic before the descent</span>
 
 We took a final group photograph and said our goodbyes as the taxi reached to pick us up. The taxi dropped me at my homestay, where I ordered a veg *thali* with fried local trout for lunch. After the meal, exhaustion finally caught up with me, and I went straight to sleep, tired and content for the journey that had just ended.

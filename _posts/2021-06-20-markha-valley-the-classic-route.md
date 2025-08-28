@@ -2,7 +2,7 @@
 layout: post
 title: Markha Valley - The Classic Route
 tags: Markha, Ladhakh, solo
-cover_image: https://res.cloudinary.com/overthehills/image/upload/v1620584331/markha/markha-valley.jpg
+cover_image: https://res.cloudinary.com/overthehills/image/upload/v1756398189/markha/markha-valley.jpg
 ---
 
 In October 2019, I did a solo trek through the Markha valley taking the classic route that goes from Stok to Hemis and crosses three high passes - Stok La, Ganda La and Kongmaru La. The trek can be done independently in the summers as most of the villages have basic homestays or campsites with food available on demand. I spent the first night in my own tent, the next 4 nights in homestays and the last one in a hired tent. All campsites along the route were closed at this time of year except for the one in Nimaling. However, most of the homestays were open.

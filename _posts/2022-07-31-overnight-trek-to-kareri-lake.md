@@ -2,7 +2,7 @@
 layout: post
 title: Overnight trek to Kareri Lake
 tags: Kareri, Himachal, Dhauladhar, solo
-cover_image: https://res.cloudinary.com/overthehills/image/upload/v1647685532/kareri/kareri-lake.jpg
+cover_image: https://res.cloudinary.com/overthehills/image/upload/v1756397932/kareri/kareri-lake.jpg
 ---
 
 Kareri Lake is a high altitude glacial lake situated at an altiutde of around 3000 metres on the trail to Minkiani Pass. In 2021, I was based out of Dharamsala in March and decided to visit Kareri Lake over the Holi weekend. Usually the route doesn't open till mid April but with hardly any snowfall in the winters the way up to the lake was already free from snow in March. The lake used to be less frequented earlier but it has become a popular trekking destination after the restrictions imposed on permanent camps in Triund since 2019. 
