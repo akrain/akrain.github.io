@@ -6,6 +6,10 @@ $on-palm:          600px !default;
 $on-laptop:        850px !default;
 @import "minima";
 
+img {
+	border-radius: .25rem;	
+}
+
 .caption {
 	font-size: $base-font-size;
 	font-style: italic;
