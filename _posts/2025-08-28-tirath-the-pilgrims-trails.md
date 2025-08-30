@@ -1,19 +1,19 @@
 ---
 layout: post
 title: Tirath - The Pilgrims' Trail
-tags: Tirthan, Sainj, GHNP, Himachal
-cover_image: https://res.cloudinary.com/overthehills/image/upload/v1756397727/tirath/tirath-cover.jpg
+tags: Tirthan, Falachan, GHNP, Himachal
+cover_image: https://res.cloudinary.com/overthehills/image/upload/v1756540260/tirath/tirath-cover.jpg
 ---
 
-The Great Himalayan National Park (GHNP) in Kullu is one of the best-preserved wilderness areas in India. One of its most remarkable treks leads to the Hans Kund spring, regarded by the locals as the source of the Tirthan river. The area surrounding the spring -- Tirth, is a significant pilgrimage site for the people of the Seraj region. 
+The Great Himalayan National Park (GHNP) in Kullu is one of the best-preserved wilderness areas in India. One of its most remarkable treks leads to the Hans Kund spring, regarded by the locals as the source of the Tirthan river. The area surrounding the spring aptly called Tirath, is a significant pilgrimage site for the people of the Seraj region. 
 
-The trek begins near the village of Gushaini and follows a narrow valley carved by the river to reach the sprawling Tirath meadow. From there, trekkers can either retrace their steps or cross the range to the South of the river to descend into the Falachan valley. Since many trails inside the park remain undefined, hiring a guide is essential. On this journey, I was joined by a local guide and two porters and together we set out to complete the Tirthan-Falachan circuit over six days.
+The trek begins near the village of Gushaini and follows a narrow valley carved by the river to reach the high altitude meadow of Tirath. From there, trekkers can either retrace their steps or cross the range to the South of the river to descend into the Falachan valley. Since many trails inside the park remain undefined, hiring a guide is essential. On this journey, I was joined by a local guide and two porters and together we set out to complete the Tirthan-Falachan circuit over six days.
 
 ![Hippo Falls](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath01.jpg)
 <span class="caption">Hippo Falls near the entrance of the National Park</span>
 
 ## Gushaini to Chalocha
-From Gushaini, a dirt road leads to the trailhead near Ropa (1700m). The initial path is wide and relatively easy, tracing the Tirthan River on higher ground. Along the way, we were greeted by a thunderstorm and a heavy downpour, though it quickly passed. On and off showers accompanied us as we trekked towards Rolla, crossing Hippo Falls and stopping at the park’s entrance gate to have our permits checked.
+From Gushaini, a dirt road leads to the trailhead near Ropa (1700m). The initial path is wide and relatively easy, tracing the Tirthan River on higher ground. Along the way, we were greeted by a thunderstorm and a heavy downpour that quickly passed. On and off showers accompanied us as we trekked towards Rolla, crossing Hippo Falls and stopping at the park’s entrance gate to have our permits checked.
 
 From Rolla, the trail narrowed and hugged the riverbank that was overgrown with bushes. In some sections where the riverbanks dropped off steeply, wooden bridges had been built to provide safe passage. Elsewhere, the trail ascended sharply away from the river only to descend again closer to the water. During this stretch, we spotted several *ghorals* at close quarters. We arrived at the Chalocha campsite (2,300m) around 4:30 PM, a serene spot next to a small stream, featuring a forest hut and enough space for a few tents.
 
@@ -38,9 +38,9 @@ Distance covered: ~2.5 km, steep climb
 
 ## Nada Thatch to Tirath
 
-The next morning, a steep descent from Nada Thatch was made even more treacherous by rain, making the already slippery trail quite difficult to navigate. The descent eased at Upla Balu (~2,500m), after which the path became more pleasant, leading us to Shankha, a site with a large cave, and a good camping area. Wild strawberries grew in abundance here. After lunch, we started walking but another downpour forced us to take shelter in a small cave until the rain eased.
+The next morning, a steep descent from Nada Thatch was made even more treacherous by rain, making the already slippery trail quite difficult to navigate. The descent eased at Upla Balu (~2,500m), after which the path became more pleasant, leading us to Shankha (2800m), a site with a large cave, and a good camping area. False strawberries and ruby cinqefoils grew in abundance here. After lunch, we started walking but another downpour forced us to take shelter in a small cave until the rain eased.
 
-We reached the Majhoni campsite but decided to push on to Tirath as there was still some daylight left. The next section of the trek involved scrambling over boulders and navigating areas prone to rockfall. Part of the original trail had been washed away a few years earlier, forcing us to climb roughly 100m up a steep, bushy slope to rejoin a higher path. From there, we walked above the treeline through lush meadows filled with wildflowers, although by then, I was too tired to fully appreciate them. We finally reached Tirath (3,750m) around 7:30 PM and spent the night near the Bheem Dwari cave.
+We reached the Majhoni campsite (~3500m) but decided to push on to Tirath as there was still some daylight left. The next section of the trek involved scrambling over boulders and navigating areas prone to rockfall. Part of the original trail had been washed away a few years earlier, forcing us to climb roughly 100m up a steep, bushy slope to rejoin a higher path. From there, we walked above the treeline through lush meadows filled with wildflowers, although by then, I was too tired to fully appreciate them. We finally reached Tirath (3750m) around 7:30 PM and spent the night near the Bheem Dwari cave.
 
 Distance covered: ~16 km, hard downhill followed by moderate uphill
 
@@ -66,7 +66,7 @@ It was only when the sun came out in the morning that could I truly appreciate t
 ## Tirath to Jatholi
 We crossed the streams that form the Tirthan River to reach the true left of the valley. For the first couple of hours, the trail was steady and pleasant, climbing uphill through meadows teeming with flowers, herbs, and aromatic shrubs. After that, the path became trickier, requiring us to cross multiple rocky spurs and streams covered with snow bridges. After lunch, we were caught in an hour and a half of heavy rain, followed by a whiteout that left us no choice but to wait it out under a rock for shelter. When the clouds finally lifted, we forded a larger stream as the valley widened, followed by a steep descent over mud and loose rocks. From there, a relatively easy walk brought us to a meadow with a small stone shelter, but no water source nearby. We continued for another 20 minutes until we reached a cave at Jatholi (3,560m), where we spent the night.
 
-Distance covered: 10-12 km, hard with 10-12 stream crossings
+Distance covered: 10-12 km, easy to moderate with many stream crossings
 
 ![The trail after crossing the Tirthan river](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath11.jpg)
 <span class="caption">The trail after crossing the Tirthan river</span>
@@ -80,9 +80,9 @@ Distance covered: 10-12 km, hard with 10-12 stream crossings
 
 ## Jatholi to Asurbag
 
-The meadow of Asurbag was visible in the distance, and at first glance, it seemed like a relatively easy walk. We set off around 8:45 AM, descending and ascending across multiple snow bridges across streams. Since the snow bridges hadn’t been crossed by many, we had to cut steps into the ice to safely navigate them. After several crossings, the trail steepened, leading us uphill to a breathtakingly beautiful meadow, blanketed in anemones, primroses, wild geraniums, and a wide variety of other wildflowers. From this vantage point, the vast meadows of Rakhundi, Nada, Dhel, Marahani, and many others within the Great Himalayan National Park were clearly visible. I spent the rest of the day observing the flowers, admiring the glorious mountain vistas, and taking pictures all around the meadow.
+The meadow of Asurbag (3800m) was visible from Jatholi, and at first glance, it seemed like a relatively easy walk. We set off around 8:45 AM, descending and ascending across multiple snow bridges across streams. Since the snow bridges hadn’t been crossed by many, we had to cut steps into the ice to safely navigate them. After several crossings, the trail steepened, leading us uphill to a breathtakingly beautiful meadow, blanketed in anemones, primroses, wild geraniums, and a wide variety of other wildflowers. From this vantage point, the vast meadows of Rakhundi, Nada, Dhel, Marahani, and many others within the Great Himalayan National Park were clearly visible. I spent the rest of the day observing the flowers, admiring the glorious mountain vistas, and taking pictures all around the meadow.
 
-Distance covered: 4-5 km, moderate to hard
+Distance covered: 4-5 km, moderate to hard climb
 
 ![A huge snow bridge](https://res.cloudinary.com/overthehills/image/upload/v1756396670/tirath/tirath14.jpg)
 <span class="caption">Step cutting on the big snow bridge</span>
